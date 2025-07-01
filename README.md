@@ -1,6 +1,6 @@
-## Hi Everyone👋,I'm Riya Paul
 
-<h1 align="center">Hi 👋, I'm Riya Paul</h1>
+
+<h1 align="center">Hi everyone👋, I'm Riya Paul</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya1234-ux&label=Profile%20views&color=0e75b6&style=flat" alt="riya1234-ux" /> </p>
