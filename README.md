@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya1234-ux&label=Profile%20views&color=0e75b6&style=flat" alt="riya1234-ux" /> </p>
 
-- 🌱 I’m currently learning **frontend development.**
+- 🌱 I’m currently learning **machine learning,building API-based projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riya1234-ux/Riya1234-ux.git](https://github.com/Riya1234-ux/Riya1234-ux.git)
 
